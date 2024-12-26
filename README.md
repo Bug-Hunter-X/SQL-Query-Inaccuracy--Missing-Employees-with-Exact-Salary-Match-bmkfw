@@ -1,0 +1,1 @@
+This repository contains examples of a common SQL error where using the greater than operator (>) instead of greater than or equal to (>=) leads to unexpected results.  The `bug.sql` file demonstrates the erroneous query.  The `bugSolution.sql` file shows the corrected version.
